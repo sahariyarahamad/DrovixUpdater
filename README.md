@@ -24,8 +24,8 @@ DrovixUpdater is a lightweight and easy-to-use library that allows you to downlo
 # Library implementation guide
 
 ***Choose your language***
-### [**Implementation for JAVA**](https://github.com/sahariyarahamad/DrovixUpdater/new/main?filename=README.md#for-java)
-### [**Implementation for KOTLIN**](https://github.com/sahariyarahamad/DrovixUpdater/new/main?filename=README.md#for-kotlin)
+### [**Implementation for JAVA**](?filename=README.md#for-java)
+### [**Implementation for KOTLIN**](?filename=README.md#for-kotlin)
 
 <br>
 
@@ -299,7 +299,7 @@ DrovixUpdater()
 
 <br>
 
-***See details about [methods](https://github.com/sahariyarahamad/DrovixUpdater/new/main?filename=README.md#about-methods)***
+***See details about [methods](?filename=README.md#about-methods)***
 
 <br>
 
