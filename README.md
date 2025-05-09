@@ -165,7 +165,7 @@ new DrovixUpdater()
 
 <br>
 
-***See details about [methods](https://github.com/sahariyarahamad/DrovixUpdater/new/main?filename=README.md#about-methods)***
+***See details about [methods](?filename=README.md#about-methods)***
 
 <br>
 
